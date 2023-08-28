@@ -6,6 +6,7 @@
 }
 .user-img {
   width: 50px;
+  border: 1px solid;
 
   clip-path: circle(50%);
 }
